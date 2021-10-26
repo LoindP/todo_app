@@ -1,0 +1,16 @@
+.search-input {
+    width: auto;
+    flex-grow: 1;
+    margin-right: 3px;
+  }
+
+  .btn-remove{
+    position: absolute;
+    /* z-index: 999; */
+  
+  }
+  
+  .search-panel{
+    position: relative;
+    display: flex;
+  }
